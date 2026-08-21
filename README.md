@@ -9,6 +9,6 @@ Atv01 20/08/2026
 Atv02 20/08/2026
 
 Atv03 20/08/2026 
-.A imagem está no repositório, com o nome de Atv03IMG.jpg, com intensão de evitar que a imagem pare de ser apresentada caso o site onde foi adquirida caia.
+- A imagem está no repositório, com o nome de Atv03IMG.jpg, com intensão de evitar que a imagem pare de ser apresentada caso o site onde foi adquirida caia.
 
 Atv04 20/08/2026
